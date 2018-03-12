@@ -24,7 +24,7 @@ public class SimplePrint {
 	}
 
 	/**
-	 * @return the pName
+	 * @return the pNamesd
 	 */
 	public String getpName() {
 		return pName;
